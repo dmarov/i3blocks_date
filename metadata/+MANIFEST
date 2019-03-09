@@ -1,4 +1,4 @@
-name "i3blocks_data"
+name "i3blocks_date"
 version "0.0.1"
 comment "plugin for date display on i3bar panel"
 arch "amd64"
