@@ -1,6 +1,6 @@
 [package]
 name = "i3blocks_date"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Dmitry Marov <d.marov94@gmail.com>"]
 edition = "2018"
 

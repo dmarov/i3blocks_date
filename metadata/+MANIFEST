@@ -1,0 +1,9 @@
+name "i3blocks_data"
+version "0.0.1"
+comment "plugin for date display on i3bar panel"
+arch "amd64"
+www https://github.com/dmarov/i3blocks_date
+origin x11/i3blocks_data
+desc "cli program which outputs date in i3bar compatible format"
+maintainer d.marov94@gmail.com
+prefix /usr/local

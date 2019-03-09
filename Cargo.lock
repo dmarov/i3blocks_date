@@ -10,7 +10,7 @@ dependencies = [
 
 [[package]]
 name = "i3blocks_date"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "chrono 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
  "serde_json 1.0.39 (registry+https://github.com/rust-lang/crates.io-index)",
